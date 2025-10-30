@@ -9,15 +9,15 @@ export default function Contact() {
             <div className="bg-gray-100">
                 <Navbar />
                 <div className="flex justify-center pt-25">
-                    <h1 className="text-3xl font-thin underline">INQUIRY</h1>
+                    <h1 className="dark:text-black text-3xl underline">INQUIRY</h1>
                 </div>
                 <div className="flex lg:flex-row flex-col pt-10 pb-20">
                     <div className="text-center w-full">
                         <div>
-                            <h1 className="text-2xl underline font-thin py-3">Contact Us:</h1>
+                            <h1 className="dark:text-black text-2xl underline py-3">Contact Us:</h1>
                         </div>
                         <div>
-                            <h1 className="text-xl">
+                            <h1 className="text-xl dark:text-black">
                                 Blk-4, L-3, Maharlika <br />
                                 Tagum City, Davao Del Norte, Philippines<br />
                                 +639 958 487 6548<br />
@@ -27,7 +27,7 @@ export default function Contact() {
                     </div>
                     <div className="text-center w-full lg:pt-0 pt-20">
                         <div>
-                            <h1 className="text-2xl underline font-thin py-3">
+                            <h1 className="dark:text-black text-2xl underline py-3">
                                 You may send through:
                             </h1>
                         </div>
@@ -51,7 +51,7 @@ export default function Contact() {
                         className="font-semibold text-gray-500 underline hover:text-blue-500 hover:font-blod">
                         unsplash</a></p>
                 </div>
-                <div className="bg-slate-300 py-8 lg: text-xl w-full">
+                <div className="bg-slate-300 py-8 lg: text-xl w-full text-black">
                     <div className="flex justify-center items-center text-xl pt-3">
                         <hr className="w-170 mr-2" />
                         <h1>

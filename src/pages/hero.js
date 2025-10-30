@@ -4,7 +4,7 @@ import Navbar from "@/components/nav"
 export default function HeroPage() {
     return (
         <>
-            <div>
+            <div className="bg-white">
                 <Navbar />
                 <div className="lg:absolute flex lg:flex-row flex-col justify-center items-center lg:h-screen w-full lg:pt-0 py-20">
                     <h1 className="lg:text-9xl md:text-7xl text-5xl font-bold text-amber-800 lg:pt-0 pt-10">INNOVATION</h1>
