@@ -5,7 +5,7 @@ export default function Navbar() {
         <>
             <nav className="fixed z-5 flex justify-between lg:px-20 px-5 py-5 bg-gray-200 w-full">
                 <h1 className="lg:text-3xl text-2xl px-3 font-bold"><span className="text-amber-600">Innovative</span>
-                    <span className="text-emerald-600">WORLD.</span>
+                    <span className="text-emerald-600">WORLD</span>
                 </h1>
                 <input type="checkbox" id="menu-toggle" className="peer hidden" />
                 <label for="menu-toggle" className="dark:text-black lg:text-2xl text-4xl cursor-pointer md:hidden">
