@@ -14,6 +14,7 @@ export default function Navbar() {
                 <ul className="peer-checked:flex hidden flex-col md:flex md:flex-row md:space-x-6 mt-4 md:mt-0 bg-gray-200 md:bg-transparent p-4 md:p-0 rounded md:rounded-none">
                     <li><a href={'/'} className="dark:text-black hover:text-amber-600 hover:underline hover:scale-100 duration-300 lg:text-md text-xl">Home</a></li>
                     <li><a href={'about'} className="dark:text-black hover:text-amber-600 hover:underline hover:scale-100 duration-300 lg:text-md text-xl">About</a></li>
+                    <li><a href={'features'} className="dark:text-black hover:text-amber-600 hover:underline hover:scale-100 duration-300 lg:text-md text-xl">Features</a></li>
                     <li><a href={'/contact'} className="dark:text-black hover:text-amber-600 hover:underline hover:scale-100 duration-300 lg:text-md text-xl">Contact</a></li>
                 </ul>
             </nav>

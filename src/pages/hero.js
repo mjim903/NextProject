@@ -7,7 +7,7 @@ export default function HeroPage() {
             <div className="bg-white">
                 <Navbar />
                 <div className="lg:absolute flex lg:flex-row flex-col justify-center items-center lg:h-screen w-full lg:pt-0 py-20">
-                    <h1 className="lg:text-9xl md:text-7xl text-5xl font-bold text-amber-800 lg:pt-0 pt-10">INNOVATION</h1>
+                    <h1 className="lg:text-9xl md:text-7xl text-5xl font-bold text-amber-700 lg:pt-0 pt-10">INNOVATION</h1>
                     <div className="lg:text-start text-center lg:py-2 py-4">
                         <h1 className="lg:text-5xl text-4xl text-lime-950 font-semibold lg:py-0 py-3">Your LIFE!</h1>
                         <h1 className="lg:text-5xl text-4xl text-emerald-950 font-semibold">Your FUTURE!</h1>
